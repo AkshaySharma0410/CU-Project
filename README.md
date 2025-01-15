@@ -1,6 +1,6 @@
 # EVCS Finder
 
- [!(assets/image/readme_evcs_finder_icon.png "Open the EVCS Finder.")](https://alibahrami633.github.io/EVCS-Finder/)
+ [(assets/image/readme_evcs_finder_icon.png "Open the EVCS Finder.")](https://alibahrami633.github.io/EVCS-Finder/)
 
 ## Description
 The EVCS Finder helps you find the nearest charging station(CS) to charge your electric vehicle (EV). As buyers around the world embrace more efficient, eco-friendly options, the use of Electric and Hybrid cars continue to grow. This poses a unique challenge for an electric vehicle owner to identify reliable charging locations. 
